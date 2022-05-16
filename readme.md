@@ -99,6 +99,26 @@ SOFTWARE.
 
 Witch says the software is provided "AS IS", without warranty of any kind.
 
+### Why should I use the linking license?
+
+The linking license provides peace of mind for any developer as they do not need to compete with copycats.
+
+### I have seen a Linking License violation. What should I do?
+
+First of all, reported to the original author. If he decides to do nothing, you can also report it to the violator, but please be civil and polite.
+
+### If i make a modification to a software, do i have to release it?
+
+No! You can make modifications privately and use it as you wish, but if you want to release it, you must link to the original source. You do not have to use the linking license.
+
+### I want to republish some code licensed under the linking license in the public domain. Can i do it?
+
+Yes, but you are not exempted by the terms as the license states:
+
+```markdown
+License modifications (eg, changing the projects licensing) does not exempt you from this requirement.
+```
+
 ### Can i dual license my code?
 
 Yes, you can. We support dual licensing with permissive and copyleft, and even tough we don't recommend it, with public domain licenses.
