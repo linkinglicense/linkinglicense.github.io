@@ -142,4 +142,4 @@ Yes! You can charge your original work for money, as long as you release the sou
 
 ### I have a question about the linking license that is not shown here. Where can I ask it?
 
-Open an issue on the [GitHub repository](www.github.com/linkinglicense/linkinglicense.github.io).
+Open an issue on the [GitHub repository](https://www.github.com/linkinglicense/linkinglicense.github.io).
