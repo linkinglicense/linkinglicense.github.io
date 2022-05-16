@@ -43,6 +43,49 @@ This software is free.
 You can modify it and redistribute it under the terms of the LINKING LICENSE V1
 See [LINKING LICENSE WEBSITE](https://linkinglicense.github.io)
 ```
+### Explain to me the linking license?
+
+The first part:
+
+```markdown
+<div align="center">
+    <h1>LINKING LICENSE</h1> 
+</div>
+
+Copyright (c) <Year> <Author>
+```
+
+Says that this is the linking license. It also says that the author is <Author> and the year is <Year>. This is called the "copyright notice". It informs users that the software is copyrighted by <Author>.
+
+The second part:
+
+```markdown
+Permission is hereby granted, free of charge, to modify, copy, remix and redistribute the work as long as the following conditions are met:
+```
+
+It says that the copyright holder allows you to freely to modify, copy, remix and redistribute the work as long as you respect the following conditions.
+
+The third part:
+
+```markdown
+You must give the original author credit in the form of a link back to the original source. License modifications (eg, changing the projects licensing) does not exempt you from this requirement.
+```
+
+The conditions, witch are you have to link to the original repository/code.
+
+The fourth part:
+
+```markdown
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+Witch says the software is provided "AS IS", without warranty of any kind.
 
 ### Can i dual license my code?
 
