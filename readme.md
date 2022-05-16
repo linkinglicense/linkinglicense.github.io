@@ -45,7 +45,17 @@ This software is free.
 You can modify it and redistribute it under the terms of the LINKING LICENSE V1
 See [LINKING LICENSE WEBSITE](https://linkinglicense.github.io)
 ```
-### Explain to me the linking license?
+
+### Is there another format of the linking license?
+
+Yes! The Linking license has a bunch of formats!
+
+[HTML](licenses/LICENSE.html)
+[Markdown](licenses/LICENSE.md)
+[Text](licenses/LICENSE.txt)
+[Rtf](licenses/LICENSE.rtf)
+
+### Can you explain to me the linking license?
 
 The first part:
 
