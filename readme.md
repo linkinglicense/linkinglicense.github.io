@@ -10,7 +10,7 @@ The linking license is a permissive license with just one requirement:
 
 ### How can i use the linking license?
 
-Create a file called license.md in your project root. Then add the following text to the file:
+Create a file called LICENSE.md/COPYING.md in your project root. Then add the following text to the file:
 
 ```markdown
 <div align="center">
@@ -33,6 +33,16 @@ SOFTWARE.
 ```
 
 Done! Your code is now licensed under the linking license!
+
+### I cannot (for practical reasons) include a LICENSE file in my project. What can I do?
+
+Include this in your project README:
+
+```markdown
+This software is free.
+You can modify it and redistribute it under the terms of the LINKING LICENSE V1
+See [LINKING LICENSE WEBSITE](https://linkinglicense.github.io)
+```
 
 ### Can i dual license my code?
 
