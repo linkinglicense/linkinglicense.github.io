@@ -97,7 +97,7 @@ It's permissive.
 
 ### I want to use a software that is licensed under the linking license, but I don't want to give credit to the original author. Can I use it?
 
-No! You can't. Consider asking the creator of the project to change the license to a permissive license.
+No! You can't. Consider asking the creator of the project to change the license to something more allowing.
 
 ### I want to use a software that is licensed under the linking license in a closed source software. Can I use it?
 
