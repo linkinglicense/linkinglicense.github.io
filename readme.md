@@ -1,5 +1,7 @@
 # The linking license!
 
+A permissive license that allows modification and redistribution of the work as long as you give the original author credit in the form of a link back to the original source.
+
 ## Faq
 
 ### What is the linking license?
