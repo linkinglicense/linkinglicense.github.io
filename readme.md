@@ -99,9 +99,14 @@ It's permissive.
 
 No! You can't. Consider asking the creator of the project to change the license to a permissive license.
 
-### I want to use a software that is licensed under the linking license in a closed source softwere. Can I use it?
+### I want to use a software that is licensed under the linking license in a closed source software. Can I use it?
 
 Yes! You can. As long as in your website or info or something, you link the original author's name.
+
+### Can i make money with software that is licensed under the linking license?
+
+Yes! You can charge your original work for money, as long as you release the source code. You can also sell others people software, as long as you link or acknowledge the original author. 
+
 
 ### I have a question about the linking license that is not shown here. Where can I ask it?
 
